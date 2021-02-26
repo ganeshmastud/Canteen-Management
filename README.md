@@ -1,4 +1,4 @@
-#Canteen Management software created using Tkinter library
+# Canteen Management software created using Tkinter library
 
 This application is made using python TKinter library and mysqli database.
 It contains images of food items, there prizes, add button, delete button, total amount is calculated dynamically means is the user click on delte button of iamge then the prize is remove from total amount.
